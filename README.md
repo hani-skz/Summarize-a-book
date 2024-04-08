@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to summarize a book using natural language processing techniques and generate various versions of the summary for comparison. It also involves creating a student information system using Jinja templates.
+This project aims to summarize a book using Generative AI and Langchain. It also involves creating a student centric study plan using Jinja templates.
 
 ## Folder Structure
 
