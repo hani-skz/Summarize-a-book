@@ -1,8 +1,4 @@
-Certainly! Here's a nicely formatted README in Markdown for your project:
-
----
-
-# Task Write-up -Cogent Labs
+# Task Write-up -Generative AI
 
 ## Overview
 
