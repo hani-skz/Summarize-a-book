@@ -1,4 +1,4 @@
-# Task Write-up -Generative AI
+# Demo -Generative AI
 
 ## Overview
 
